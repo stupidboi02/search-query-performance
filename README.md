@@ -4,7 +4,7 @@ How to get Data:
   - Create Database: AmazonReport
 2. Create Folder in the same source code files
   - Create folder 'monthly' with monthly json files, 'quarterly' with quarterly json files
-3. Run file "l.py"
+3. Run file "l.py".
 DashBoard:
 <img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/ed235aab-b652-4715-b5a3-e6710cd61734" />
 <img width="823" height="464" alt="image" src="https://github.com/user-attachments/assets/4e70fea3-6710-423d-9898-5423b8ec27a2" />
