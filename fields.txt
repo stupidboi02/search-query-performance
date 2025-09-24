@@ -1,0 +1,7 @@
+asin → sản phẩm bạn đang quảng cáo.
+searchQueryData → keyword khách hàng tìm kiếm (searchQuery, searchQueryVolume, searchQueryScore).
+impressionData → số lần hiển thị tổng + số lần hiển thị của ASIN.
+clickData → số lần click, CTR, CPC trung vị, click theo shipping option.
+cartAddData → số lần thêm giỏ hàng, tỷ lệ thêm giỏ hàng, giá trung vị, chia theo shipping.
+purchaseData → số lượng mua, tỷ lệ mua, giá trung vị, chia theo shipping.
+Các trường thời gian (startDate, endDate, month_period) và report_id, document_id để định danh báo cáo.
